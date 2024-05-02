@@ -23,10 +23,10 @@
 			"GetFriendsCallbackProxy.gen.cpp.obj",
 			"GetRecentPlayersCallbackProxy.gen.cpp.obj",
 			"GetUserPrivilegeCallbackProxy.gen.cpp.obj",
-			"LoginUserCallbackProxy.gen.cpp.obj",
-			"LogoutUserCallbackProxy.gen.cpp.obj"
+			"LoginUserCallbackProxy.gen.cpp.obj"
 		],
 		"Module.AdvancedSessions.3.cpp.obj": [
+			"LogoutUserCallbackProxy.gen.cpp.obj",
 			"SendFriendInviteCallbackProxy.gen.cpp.obj",
 			"StartSessionCallbackProxyAdvanced.gen.cpp.obj",
 			"UpdateSessionCallbackProxyAdvanced.gen.cpp.obj",
